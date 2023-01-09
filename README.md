@@ -2,7 +2,7 @@
 
 ## [Day 01](Day%01)
 
-* Basic SQLConcepts
+* Basic SQL Concepts
 *  What is a Relational Database / RDBMS?
 *  What is a schema wrt to a relational database?
 *  How data is stored in a relational database?
